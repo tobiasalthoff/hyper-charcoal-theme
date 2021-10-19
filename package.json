@@ -1,7 +1,7 @@
 {
-  "name": "hyper-charcoal-theme",
+  "name": "hyper-theme-charcoal",
   "version": "1.0.0",
-  "description": "Charcoal Theme for Hyper",
+  "description": "Charcoal Theme for Hyper Terminal",
   "main": "index.js",
   "repository": {
     "type": "git",
