@@ -1,0 +1,23 @@
+{
+  "name": "hyper-charcoal-theme",
+  "version": "1.0.0",
+  "description": "Charcoal Theme for Hyper",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobiasalthoff/hyper-charcoal-theme.git"
+  },
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "charcoal"
+  ],
+  "author": {
+    "name": "tobiasalthoff"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tobiasalthoff/hyper-charcoal-theme/issues"
+  },
+  "homepage": "https://github.com/tobiasalthoff/hyper-charcoal-theme#readme"
+}
