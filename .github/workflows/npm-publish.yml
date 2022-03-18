@@ -1,8 +1,11 @@
 name: Node.js Package
 
 on:
+  push:
+    tags:
+      - 'v*'
   release:
-    types: [created]
+    types: [published]
 
 jobs:
   publish-npm:
