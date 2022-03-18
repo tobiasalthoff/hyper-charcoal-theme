@@ -1,9 +1,11 @@
 exports.decorateConfig = (config) => {
+  exports.onWindow = (browserWindow) => browserWindow.setVibrancy("dark");
+
   return Object.assign({}, config, {
     cursorColor: '#535E68',
     cursorAccentColor: '#000',
     foregroundColor: '#D4D5D6',
-    backgroundColor: '#262B30',
+    backgroundColor: 'rgba(15, 17, 19, 0.6)',
     selectionColor: 'rgba(83,94,104,0.3)',
     borderColor: 'transparent',
     css: `
